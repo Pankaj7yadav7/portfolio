@@ -418,7 +418,7 @@ body::-webkit-scrollbar-thumb {
     position: fixed;
     top: 50px;
     right: -200px;
-    height: 100vh;
+    height: 100px;
     width: 200px;
     z-index: 15;
     background-color: #fff;
