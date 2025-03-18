@@ -3153,7 +3153,7 @@ body::-webkit-scrollbar-thumb {
 
     .elisc_tm_home .details {
         align-items: baseline;
-        flex-direction: column-reverse
+        
     }
 
     .elisc_tm_home .details .left {
